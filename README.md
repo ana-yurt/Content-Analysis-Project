@@ -2,7 +2,7 @@
 
 My research focuses on how Chinese-language discourse conceptualizes the two Muslim groups in Northwestern China—Sino-Muslim population, Hui, and Turkic-Muslim population, Uyghur. I hope to measure, quantify, and compare the cultural associations that Hui, Uyghur, and the Han majority carry along cultural dimensions such as violence and how political language impacts areas of representation in everyday discourse. Ideally, I also wish to quantify changes in Chinese cultural attitudes towards ethnic minorities over the twentieth century. I am still working on digitalizing historical Chinese documents using OCR.
 
-For contemporary corpora, I employed two datasets. The baseline model comes from Tencent AI Lab, which was trained in 2021 on large-scale corpora, likely consisting of official and formal texts. My own model is trained on a smaller subcultural corpus (1.5M sentences) that I scraped from Zhihu, the Chinese equivalent of Quora. Due to the availability of sources, the analysis will be biased towards Han-Chinese perception of other ethnic groups.
+For contemporary corpora, we employed a baseline wrod2vec model from Tencent AI Lab, which was trained in 2021 on large-scale corpora, likely consisting of official and formal texts. My own model is trained on a smaller subcultural corpus (1.5M sentences) that I scraped from Zhihu, the Chinese equivalent of Quora. Due to the availability of sources, the analysis will be biased towards Han-Chinese perception of other ethnic groups. I also work on a collection of local history materials published by administrative units (Wenshi Ziliao) as my historical corpora.
 
 **Methods We Expect to Use**: Word Counting, Word2Vec Embedding, LLM
 
